@@ -6,7 +6,8 @@
 ## **Sobre mim**
 
 ```
-Sou Profissional de técnologia desde de o ano de 2023 e fiz uma transição de carreira a pouco tempo, trazendo para o mundo da tecnologia minhas SoftSkill do meu trabalho anterior.
+Sou Profissional de técnologia desde de o ano de 2023 e fiz uma transição de carreira a pouco tempo,
+trazendo para o mundo da tecnologia minhas SoftSkill do meu trabalho anterior.
 ```
 
 ## **Habilidades**

@@ -6,8 +6,13 @@
 ## **Sobre mim**
 
 ```
-Sou Profissional de técnologia desde de o ano de 2023 e fiz uma transição de carreira a pouco tempo,
-trazendo para o mundo da tecnologia minhas SoftSkill do meu trabalho anterior.
+Sou Profissional de técnologia Front-End e fiz uma transição de carreira a pouco tempo,
+trazendo para o mundo da tecnologia, minhas Soft Skill do meu trabalho anterior. Como boa
+comunicação e também racioninio rápido, junto com familiariedade em trabalho em equipe,
+com algumas vezes sendo o responsável no momento.
+
+Estou estudando no momento HTML e CSS, Java Script, Angular no meu perfil
+compartilho um pouco do meu aprendizado e a evolução dos meus estudos.
 ```
 
 ## **Habilidades**

@@ -1,7 +1,7 @@
 # **Bruno Rodrigues**
 
 ## **Conecte-se comigo**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/bruno-rodrigues-silva-b9422ba6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/bruno-rodrigues-silva-b9422ba6/?trk=public_profile-settings_edit-profile-content&originalSubdomain=br)
 
 ## **Sobre mim**
 

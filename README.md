@@ -15,7 +15,7 @@ com algumas vezes sendo o responsável no momento.
 ```
 
 ## **Habilidades**
-*HTML5, css3, javascript, angular
+*HTML5, CSS3, JavaScript, AMGULAR
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=brunolk1&theme=algolia&show_icons=true)](https://github.com/brunolk1) 

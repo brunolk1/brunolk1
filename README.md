@@ -11,8 +11,7 @@ trazendo para o mundo da tecnologia, minhas Soft Skill do meu trabalho anterior.
 comunicação e também racioninio rápido, junto com familiariedade em trabalho em equipe,
 com algumas vezes sendo o responsável no momento.
 
-Estou estudando no momento HTML e CSS, Java Script, Angular no meu perfil
-compartilho um pouco do meu aprendizado e a evolução dos meus estudos.
+
 ```
 
 ## **Habilidades**
